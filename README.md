@@ -106,6 +106,13 @@ Put the relay behind HTTPS on your own domain, then register a cloud-to-cloud in
 ## Credits
 Reverse-engineered independently; the `com.hyll` package structure was the key. Related prior art for this platform: [`nvhiuzz11/cyhy`](https://github.com/nvhiuzz11/cyhy) (a Node ZXY268 experiment — note it omits the `%08d` length prefix and had login/hash mismatches; this project corrects those).
 
+## More from us
+
+- [Wandless VR Video Player](https://github.com/cnghockey/wandless-vr-video-player): watch VR180 and flat video on a Meta Quest with your hands alone. [Try it in the headset browser](https://cnghockey.github.io/wandless-vr-video-player/).
+- [VLC for Android subtitle URL fix](https://github.com/cnghockey/vlc-android-subtitle-url-fix): VLC for Android shows the subtitles that Jellyfin for Android TV sends it.
+- [Bestway Spa Relay](https://github.com/cnghockey/bestway-spa-relay): control a Bestway SmartSpa / Lay-Z-Spa from Home Assistant or Homebridge.
+- [Sats4AI](https://sats4ai.com): AI tools that people and AI agents pay per call with Bitcoin over Lightning. No signup.
+
 ## Support / donate
 This started as one stubborn *"why can't I just say **start my car**"* and escalated into reverse-engineering a telematics cloud. Worth it.
 
