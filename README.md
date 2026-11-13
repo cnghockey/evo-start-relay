@@ -15,7 +15,7 @@ This talks to the **"hyll" / ZXY268** telematics platform, which is white-labele
 
 | App | Android package | Notes |
 |---|---|---|
-| **EvoStart** / **EvoStart 2** | `com.fortin.evostart1` / `com.fortin.evostart2` | Fortin — tested with this code |
+| **EvoStart** / **EvoStart 2** | `com.fortin.evostart1` / `com.fortin.evostart2` | Fortin. EvoStart: tested with this code. EvoStart 2: not tested yet |
 | **iStartCar** | `com.hyll.istartcar` | remote start / car |
 | **CYHY** | `com.hyll.cyhy2` | China-market rebadge (source of the `nvhiuzz11/cyhy` dump) |
 | **SwapTrailer** | `com.hyll.swaptrailer` | trailer / asset tracking, same platform |
